@@ -1,0 +1,12 @@
+
+a=int(input("enter your age in years: "))
+b=(a*12)
+c=(b*30)
+d=(c*24)
+e=(d*60)
+f=(e*60)
+print("you are",b,"months old")
+print("you are",c,"days old")
+print("you are",d,"hours old")
+print("you are",e,"minutes old")
+print("you are",f,"seconds old")

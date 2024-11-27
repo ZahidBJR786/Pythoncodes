@@ -1,0 +1,8 @@
+a=int(input("First Number: "))
+b=int(input("Second number: "))
+print("result of a and b is : ",(a<b))
+print("result of a and b is : ",(a>b))
+print("result of a and b is : ",(a<=b))
+print("result of a and b is : ",(a>=b))
+print("result of a and b is : ",(a==b))
+print("result of a and b is : ",(a!=b))
